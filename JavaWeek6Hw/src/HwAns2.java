@@ -1,7 +1,7 @@
 public class HwAns2 {
 //2.1 Declare two static variables.
-static int variable1 = 1;
-    static int variable2 = 2;
+static int variable1 = 10;
+    static int variable2 = 20;
 
 //2.2 Declare one static method.
     static  void printStaticVariables() {
