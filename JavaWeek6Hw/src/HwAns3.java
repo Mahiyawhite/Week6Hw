@@ -6,8 +6,8 @@ public class HwAns3 {
     //print statement.
 
 
-int InstanceVariable  = 20;
-static int staticVariable = 30;
+int InstanceVariable  = 200;
+static int staticVariable = 300;
 
 //3.2 Declare one instance method.
     void InstanceMethod(){
