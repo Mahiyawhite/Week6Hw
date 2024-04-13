@@ -14,8 +14,8 @@ static int variable1 = 10;
 public static void main(String[] args) {
 
         //2.5 Call the static method into the Main method and run the programme.
-    HwAns2 h = new HwAns2();
-    h.printStaticVariables();
+
+    printStaticVariables();
 
     }
 }
