@@ -1,16 +1,11 @@
 public class HwAns3 {
-   //3.1 Declare one instance and one static variable.
-
-
-    //3.4 Call both instance and static variables into both instance and static methods inside the
-    //print statement.
-
-
+    //3.1 Declare one instance and one static variable.
 int InstanceVariable  = 200;
 static int staticVariable = 300;
 
-//3.2 Declare one instance method.
+    //3.2 Declare one instance method.
     void InstanceMethod(){
+
         //3.4 Call both instance and static variables into both instance and static methods inside the
         //print statement.
         System.out.println("Instance variable: " + InstanceVariable);
