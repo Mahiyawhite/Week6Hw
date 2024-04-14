@@ -6,7 +6,7 @@ public class A3 {
 
             String[][] countriesAndCapitals = {
                     {"India", "Delhi"},
-                    {"canada", "Ottawa"},
+                    {"Canada", "Ottawa"},
                     {"United Kingdom", "London"},
                     {"France", "Paris"},
                     {"United States", "Washington"}
