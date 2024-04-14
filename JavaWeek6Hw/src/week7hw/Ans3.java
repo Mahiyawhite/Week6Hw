@@ -3,7 +3,7 @@ package week7hw;
     console.*/
 public class Ans3 {
       public static void main(String[] args) {
-          String[][] mycountry = {{"India,canada,Uk,Usa,France"},
+          String[][] mycountry = {{"India,Canada,UnitedKingdom,Usa,France"},
                                   {"Delhi,Otava,London,Newyork,Paris"}};
 
 
