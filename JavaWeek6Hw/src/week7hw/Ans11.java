@@ -8,7 +8,7 @@ public class Ans11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter alphabet between A to F :");
-        char alphabet = scanner.next().charAt(0);
+        char alphabet = scanner.next().toUpperCase().charAt(0);
 
         String cityName;
         if (alphabet == 'A') {
