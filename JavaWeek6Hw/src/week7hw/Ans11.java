@@ -18,7 +18,7 @@ public class Ans11 {
         } else if (alphabet == 'C') {
             cityName = "Chennai";
         } else if (alphabet == 'D') {
-            cityName = "Dubai";
+            cityName = "Delhi";
         } else if (alphabet == 'E') {
             cityName = "England";
         } else if (alphabet == 'F') {
