@@ -20,27 +20,25 @@ public class Ans13 {
         double result;
         if (action == '+') {
             result = number1 + number2;
+            System.out.println("Result: " + result);
         } else if (action == '-') {
             result = number1 - number2;
+            System.out.println("Result: " + result);
         } else if (action == '*') {
             result = number1 * number2;
+            System.out.println("Result: " + result);
         } else if (action == '/') {
 
-            if (number2 != 0) {
+           if (number2 != 0) {
                 result = number1 / number2;
-            } else {
-                System.out.println("Error: Division by zero!");
-                return;
+               System.out.println("Result: " + result);
+            }
+
             }
         }
-              else {
-            System.out.println("Error: Invalid symbol!");
-            return;
-        }
-
-        System.out.println("Result: " + result);
-
-        sc.close();
-
-    }
 }
+
+
+
+
+
