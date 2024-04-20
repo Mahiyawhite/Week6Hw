@@ -32,7 +32,8 @@ public class Ans16 {
                 break;
             case 7 :
                 System.out.println("Saturday");
-
+            default:
+                System.out.println("invalid input");
 
 
         }
